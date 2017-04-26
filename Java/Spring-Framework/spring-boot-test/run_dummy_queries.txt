@@ -1,0 +1,9 @@
+START TRANSACTION;
+INSERT INTO run (id,starting_address,host_user,created_date,modified_date,start_date,distance,distance_measurement_unit,pace,feature_run,flagged,public,max_runners,status,title,message,description) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d','Viva Fields','62d9d611-f026-4c0a-ae9f-fd3e9289f496','2016-10-27 17:21:22','2016-10-27 23:46:53','2016-10-31 22:57:01',17.0,'MI','PURPLE',1,0,1,6,'D','Title 7','Message 6','Eos commodi sed non sit quia.');
+INSERT INTO location (run_id,position,latitude,longitude) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d',6,33.91097294056776,-118.44538105058083);
+INSERT INTO location (run_id,position,latitude,longitude) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d',9,34.066323580477665,-118.44635791397312);
+INSERT INTO location (run_id,position,latitude,longitude) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d',4,33.8555264611622,-118.23478483792354);
+INSERT INTO attendee (run_id,user_id) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d','d7620982-a106-4f0d-b3e8-5970b40fe305');
+INSERT INTO attendee (run_id,user_id) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d','3f1205db-56f5-4e63-b78e-7b81f935cce2');
+INSERT INTO attendee (run_id,user_id) VALUES ('a22576bb-824c-400c-9846-cb9712e15d8d','92f0a2b7-dd0c-4bb3-849b-ad0c89ca78ad');
+COMMIT;

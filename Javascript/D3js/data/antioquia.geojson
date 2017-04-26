@@ -1,0 +1,290 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.61393,
+               6.175336
+            ]
+         },
+         "properties": {
+            "cartodb_id": 1,
+            "municipio": "itagui",
+            "festival": "corporacion dia de la pereza"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.449517,
+               6.378322
+            ]
+         },
+         "properties": {
+            "cartodb_id": 2,
+            "municipio": "girardota ",
+            "festival": "escuela de música "
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.564574,
+               6.253041
+            ]
+         },
+         "properties": {
+            "cartodb_id": 3,
+            "municipio": "corporacion alobba",
+            "festival": "medellin"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.570188,
+               6.252848
+            ]
+         },
+         "properties": {
+            "cartodb_id": 4,
+            "municipio": "corporacion la aldaba ",
+            "festival": "medellin"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.840589,
+               5.794161
+            ]
+         },
+         "properties": {
+            "cartodb_id": 5,
+            "municipio": "pueblorrico",
+            "festival": "urban festival pueblo rrico"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.158992,
+               6.232367
+            ]
+         },
+         "properties": {
+            "cartodb_id": 6,
+            "municipio": "guatape",
+            "festival": "corporacion phi"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.460901,
+               6.648271
+            ]
+         },
+         "properties": {
+            "cartodb_id": 7,
+            "municipio": "santa rosa de osos",
+            "festival": "proyeccion joropo"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.776082,
+               5.790513
+            ]
+         },
+         "properties": {
+            "cartodb_id": 8,
+            "municipio": "jerico",
+            "festival": "profauia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.577826,
+               6.228787
+            ]
+         },
+         "properties": {
+            "cartodb_id": 9,
+            "municipio": "medellin",
+            "festival": "colombia canta "
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.552942,
+               6.33188
+            ]
+         },
+         "properties": {
+            "cartodb_id": 11,
+            "municipio": "bello",
+            "festival": "festival girardota "
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.505078,
+               6.357621
+            ]
+         },
+         "properties": {
+            "cartodb_id": 10,
+            "municipio": "copacabana",
+            "festival": "corpomusica"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.671007,
+               5.927245
+            ]
+         },
+         "properties": {
+            "cartodb_id": 12,
+            "municipio": "fredonia",
+            "festival": "cerro bravo"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.334744,
+               6.175249
+            ]
+         },
+         "properties": {
+            "cartodb_id": 13,
+            "municipio": "marinilla",
+            "festival": "festival de musica andina colombiana"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.598898,
+               6.233736
+            ]
+         },
+         "properties": {
+            "cartodb_id": 14,
+            "municipio": "medellin",
+            "festival": "instituto de cultura"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.552942,
+               6.33188
+            ]
+         },
+         "properties": {
+            "cartodb_id": 17,
+            "municipio": "medellin",
+            "festival": "cotrafa "
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.586238,
+               6.170337
+            ]
+         },
+         "properties": {
+            "cartodb_id": 18,
+            "municipio": "envigado",
+            "festival": "cortiple"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.571818,
+               6.241159
+            ]
+         },
+         "properties": {
+            "cartodb_id": 19,
+            "municipio": "medellin",
+            "festival": "colombia canta y encanta "
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.61173,
+               6.165388
+            ]
+         },
+         "properties": {
+            "cartodb_id": 20,
+            "municipio": "itagui",
+            "festival": "idearte"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -75.461751,
+               6.646662
+            ]
+         },
+         "properties": {
+            "cartodb_id": 15,
+            "municipio": "santa rosa de osos",
+            "festival": "<h2>festimediodia</h2>"
+         }
+      }
+   ]
+}
